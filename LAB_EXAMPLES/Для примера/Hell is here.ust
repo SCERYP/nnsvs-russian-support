@@ -1,0 +1,2207 @@
+[#VERSION]
+UST Version1.2
+[#SETTING]
+Tempo=120.00
+Tracks=1
+ProjectName=Hell is here
+VoiceDir=C:\Users\Lilit\Downloads\Lolita_f0_NNSVS_model_220319-1143-UTC\Lolita_f0_---
+OutFile=
+CacheDir=Hell is here.cache
+Tool1=wavtool.exe
+Tool2=resampler.exe
+[#0000]
+Length=180
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0001]
+Length=240
+Lyric=l u
+NoteNum=59
+PreUtterance=
+[#0002]
+Length=540
+Lyric=n a
+NoteNum=65
+PreUtterance=
+[#0003]
+Length=240
+Lyric=s vj e
+NoteNum=62
+PreUtterance=
+[#0004]
+Length=240
+Lyric=e
+NoteNum=59
+PreUtterance=
+[#0005]
+Length=360
+Lyric=tj i t
+NoteNum=60
+PreUtterance=
+[#0006]
+Length=420
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0007]
+Length=300
+Lyric=j a r
+NoteNum=60
+PreUtterance=
+[#0008]
+Length=480
+Lyric=k a
+NoteNum=65
+PreUtterance=
+[#0009]
+Length=300
+Lyric=s lj e
+NoteNum=63
+PreUtterance=
+[#0010]
+Length=180
+Lyric=e
+NoteNum=60
+PreUtterance=
+[#0011]
+Length=420
+Lyric=pj i t
+NoteNum=60
+PreUtterance=
+[#0012]
+Length=300
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0013]
+Length=300
+Lyric=a s
+NoteNum=63
+PreUtterance=
+[#0014]
+Length=180
+Lyric=vj i
+NoteNum=61
+PreUtterance=
+[#0015]
+Length=300
+Lyric=i
+NoteNum=60
+PreUtterance=
+[#0016]
+Length=480
+Lyric=shj a
+NoteNum=60
+PreUtterance=
+[#0017]
+Length=540
+Lyric=j e t
+NoteNum=61
+PreUtterance=
+[#0018]
+Length=480
+Lyric=b l a
+NoteNum=63
+PreUtterance=
+[#0019]
+Length=540
+Lyric=g a
+NoteNum=65
+PreUtterance=
+[#0020]
+Length=480
+Lyric=vj e
+NoteNum=63
+PreUtterance=
+[#0021]
+Length=300
+Lyric=nj i
+NoteNum=61
+PreUtterance=
+[#0022]
+Length=420
+Lyric=j a
+NoteNum=60
+PreUtterance=
+[#0023]
+Length=300
+Lyric=f sj e
+NoteNum=60
+PreUtterance=
+[#0024]
+Length=480
+Lyric=p r a s
+NoteNum=65
+PreUtterance=
+[#0025]
+Length=420
+Lyric=n u
+NoteNum=63
+PreUtterance=
+[#0026]
+Length=360
+Lyric=c a
+NoteNum=60
+PreUtterance=
+[#0027]
+Length=360
+Lyric=br
+NoteNum=60
+PreUtterance=
+[#0028]
+Length=300
+Lyric=i p
+NoteNum=60
+PreUtterance=
+[#0029]
+Length=480
+Lyric=r a z
+NoteNum=65
+PreUtterance=
+[#0030]
+Length=480
+Lyric=vj e
+NoteNum=63
+PreUtterance=
+[#0031]
+Length=360
+Lyric=j u t
+NoteNum=60
+PreUtterance=
+[#0032]
+Length=420
+Lyric=br
+NoteNum=60
+PreUtterance=
+[#0033]
+Length=300
+Lyric=p rj i
+NoteNum=63
+PreUtterance=
+[#0034]
+Length=180
+Lyric=z y
+NoteNum=60
+PreUtterance=
+[#0035]
+Length=240
+Lyric=y
+NoteNum=60
+PreUtterance=
+[#0036]
+Length=480
+Lyric=v a
+NoteNum=60
+PreUtterance=
+[#0037]
+Length=480
+Lyric=j e t
+NoteNum=61
+PreUtterance=
+[#0038]
+Length=540
+Lyric=n o ch
+NoteNum=63
+PreUtterance=
+[#0039]
+Length=540
+Lyric=k a p
+NoteNum=65
+PreUtterance=
+[#0040]
+Length=480
+Lyric=shj e
+NoteNum=62
+PreUtterance=
+[#0041]
+Length=240
+Lyric=nj i
+NoteNum=60
+PreUtterance=
+[#0042]
+Length=360
+Lyric=j u
+NoteNum=60
+PreUtterance=
+[#0043]
+Length=600
+Lyric=br
+NoteNum=60
+PreUtterance=
+[#0044]
+Length=240
+Lyric=t r u
+NoteNum=60
+PreUtterance=
+[#0045]
+Length=240
+Lyric=p y
+NoteNum=58
+PreUtterance=
+[#0046]
+Length=284
+Lyric=p rj a
+NoteNum=60
+PreUtterance=
+[#0047]
+Length=144
+Lyric=m o
+NoteNum=60
+PreUtterance=
+[#0048]
+Length=292
+Lyric=i z
+NoteNum=60
+PreUtterance=
+[#0049]
+Length=420
+Lyric=m a
+NoteNum=61
+PreUtterance=
+[#0050]
+Length=240
+Lyric=g i l
+NoteNum=60
+PreUtterance=
+[#0051]
+Length=360
+Lyric=br
+NoteNum=60
+PreUtterance=
+[#0052]
+Length=240
+Lyric=k lj i
+NoteNum=60
+PreUtterance=
+[#0053]
+Length=300
+Lyric=ch u t
+NoteNum=58
+PreUtterance=
+[#0054]
+Length=240
+Lyric=b lj i z
+NoteNum=60
+PreUtterance=
+[#0055]
+Length=120
+Lyric=kj i
+NoteNum=59
+PreUtterance=
+[#0056]
+Length=300
+Lyric=h y
+NoteNum=60
+PreUtterance=
+[#0057]
+Length=420
+Lyric=r a d
+NoteNum=61
+PreUtterance=
+[#0058]
+Length=180
+Lyric=n y h
+NoteNum=59
+PreUtterance=
+[#0059]
+Length=300
+Lyric=br
+NoteNum=60
+PreUtterance=
+[#0060]
+Length=360
+Lyric=v o l
+NoteNum=60
+PreUtterance=
+[#0061]
+Length=180
+Lyric=kj i
+NoteNum=60
+PreUtterance=
+[#0062]
+Length=240
+Lyric=m o n
+NoteNum=61
+PreUtterance=
+[#0063]
+Length=360
+Lyric=s t r y
+NoteNum=60
+PreUtterance=
+[#0064]
+Length=180
+Lyric=g u
+NoteNum=61
+PreUtterance=
+[#0065]
+Length=300
+Lyric=lj i
+NoteNum=60
+PreUtterance=
+[#0066]
+Length=240
+Lyric=b a
+NoteNum=61
+PreUtterance=
+[#0067]
+Length=300
+Lyric=sh y
+NoteNum=60
+PreUtterance=
+[#0068]
+Length=240
+Lyric=f sj e
+NoteNum=63
+PreUtterance=
+[#0069]
+Length=300
+Lyric=h a
+NoteNum=63
+PreUtterance=
+[#0070]
+Length=240
+Lyric=tj a
+NoteNum=60
+PreUtterance=
+[#0071]
+Length=300
+Lyric=t u
+NoteNum=63
+PreUtterance=
+[#0072]
+Length=300
+Lyric=vj i
+NoteNum=63
+PreUtterance=
+[#0073]
+Length=120
+Lyric=dj i
+NoteNum=60
+PreUtterance=
+[#0074]
+Length=120
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0075]
+Length=300
+Lyric=t a n
+NoteNum=61
+PreUtterance=
+[#0076]
+Length=180
+Lyric=c y
+NoteNum=60
+PreUtterance=
+[#0077]
+Length=60
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0078]
+Length=300
+Lyric=a b
+NoteNum=60
+PreUtterance=
+[#0079]
+Length=240
+Lyric=rj e
+NoteNum=58
+PreUtterance=
+[#0080]
+Length=360
+Lyric=ch o n
+NoteNum=60
+PreUtterance=
+[#0081]
+Length=360
+Lyric=n a j
+NoteNum=60
+PreUtterance=
+[#0082]
+Length=360
+Lyric=z vj e z
+NoteNum=58
+PreUtterance=
+[#0083]
+Length=180
+Lyric=d y
+NoteNum=60
+PreUtterance=
+[#0084]
+Length=360
+Lyric=br
+NoteNum=60
+PreUtterance=
+[#0085]
+Length=240
+Lyric=f sj a
+NoteNum=60
+PreUtterance=
+[#0086]
+Length=240
+Lyric=nj i
+NoteNum=61
+PreUtterance=
+[#0087]
+Length=360
+Lyric=vj e s
+NoteNum=60
+PreUtterance=
+[#0088]
+Length=340
+Lyric=t a
+NoteNum=60
+PreUtterance=
+[#0089]
+Length=320
+Lyric=f k r a
+NoteNum=61
+PreUtterance=
+[#0090]
+Length=248
+Lyric=vj i
+NoteNum=60
+PreUtterance=
+[#0091]
+Length=232
+Lyric=n a k
+NoteNum=59
+PreUtterance=
+[#0092]
+Length=180
+Lyric=r o
+NoteNum=60
+PreUtterance=
+[#0093]
+Length=300
+Lyric=e t
+NoteNum=60
+PreUtterance=
+[#0094]
+Length=240
+Lyric=m i
+NoteNum=61
+PreUtterance=
+[#0095]
+Length=240
+Lyric=l Y s
+NoteNum=60
+PreUtterance=
+[#0096]
+Length=240
+Lyric=t o
+NoteNum=61
+PreUtterance=
+[#0097]
+Length=240
+Lyric=l u b
+NoteNum=60
+PreUtterance=
+[#0098]
+Length=300
+Lyric=r a s
+NoteNum=61
+PreUtterance=
+[#0099]
+Length=240
+Lyric=t v a m
+NoteNum=60
+PreUtterance=
+[#0100]
+Length=180
+Lyric=s v a
+NoteNum=63
+PreUtterance=
+[#0101]
+Length=300
+Lyric=i m
+NoteNum=60
+PreUtterance=
+[#0102]
+Length=300
+Lyric=mj o r
+NoteNum=64
+PreUtterance=
+[#0103]
+Length=240
+Lyric=t v y m
+NoteNum=60
+PreUtterance=
+[#0104]
+Length=240
+Lyric=ch i s
+NoteNum=63
+PreUtterance=
+[#0105]
+Length=240
+Lyric=t y m
+NoteNum=60
+PreUtterance=
+[#0106]
+Length=180
+Lyric=sj e r
+NoteNum=63
+PreUtterance=
+[#0107]
+Length=60
+Lyric=cl
+NoteNum=60
+PreUtterance=
+[#0108]
+Length=360
+Lyric=c e m
+NoteNum=65
+PreUtterance=
+[#0109]
+Length=600
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0110]
+Length=240
+Lyric=h a
+NoteNum=65
+PreUtterance=
+[#0111]
+Length=240
+Lyric=br
+NoteNum=60
+PreUtterance=
+[#0112]
+Length=300
+Lyric=h e
+NoteNum=63
+PreUtterance=
+[#0113]
+Length=420
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0114]
+Length=240
+Lyric=ch e
+NoteNum=68
+PreUtterance=
+[#0115]
+Length=180
+Lyric=l a
+NoteNum=67
+PreUtterance=
+[#0116]
+Length=300
+Lyric=vj e k
+NoteNum=65
+PreUtterance=
+[#0117]
+Length=240
+Lyric=s m a t
+NoteNum=63
+PreUtterance=
+[#0118]
+Length=180
+Lyric=rj i
+NoteNum=63
+PreUtterance=
+[#0119]
+Length=180
+Lyric=br
+NoteNum=65
+PreUtterance=
+[#0120]
+Length=180
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0121]
+Length=180
+Lyric=zh e
+NoteNum=60
+PreUtterance=
+[#0122]
+Length=360
+Lyric=br
+NoteNum=60
+PreUtterance=
+[#0123]
+Length=240
+Lyric=v z g lj a d
+NoteNum=67
+PreUtterance=
+[#0124]
+Length=180
+Lyric=nj e
+NoteNum=67
+PreUtterance=
+[#0125]
+Length=300
+Lyric=u
+NoteNum=65
+PreUtterance=
+[#0126]
+Length=240
+Lyric=v a
+NoteNum=63
+PreUtterance=
+[#0127]
+Length=180
+Lyric=dj i
+NoteNum=63
+PreUtterance=
+[#0128]
+Length=300
+Lyric=br
+NoteNum=60
+PreUtterance=
+[#0129]
+Length=240
+Lyric=zh e
+NoteNum=60
+PreUtterance=
+[#0130]
+Length=240
+Lyric=br
+NoteNum=60
+PreUtterance=
+[#0131]
+Length=240
+Lyric=p rj i g
+NoteNum=67
+PreUtterance=
+[#0132]
+Length=240
+Lyric=l a
+NoteNum=67
+PreUtterance=
+[#0133]
+Length=120
+Lyric=sh a
+NoteNum=64
+PreUtterance=
+[#0134]
+Length=360
+Lyric=e m
+NoteNum=62
+PreUtterance=
+[#0135]
+Length=240
+Lyric=k pj i
+NoteNum=64
+PreUtterance=
+[#0136]
+Length=240
+Lyric=i
+NoteNum=60
+PreUtterance=
+[#0137]
+Length=240
+Lyric=r u
+NoteNum=59
+PreUtterance=
+[#0138]
+Length=240
+Lyric=tj i
+NoteNum=61
+PreUtterance=
+[#0139]
+Length=180
+Lyric=bj a
+NoteNum=58
+PreUtterance=
+[#0140]
+Length=240
+Lyric=a
+NoteNum=60
+PreUtterance=
+[#0141]
+Length=600
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0142]
+Length=480
+Lyric=s dj e sj
+NoteNum=65
+PreUtterance=
+[#0143]
+Length=240
+Lyric=d i
+NoteNum=60
+PreUtterance=
+[#0144]
+Length=240
+Lyric=b u k
+NoteNum=60
+PreUtterance=
+[#0145]
+Length=240
+Lyric=s m a
+NoteNum=67
+PreUtterance=
+[#0146]
+Length=212
+Lyric=m a ch
+NoteNum=67
+PreUtterance=
+[#0147]
+Length=268
+Lyric=k Y j
+NoteNum=65
+PreUtterance=
+[#0148]
+Length=180
+Lyric=s v a
+NoteNum=63
+PreUtterance=
+[#0149]
+Length=240
+Lyric=j e j
+NoteNum=65
+PreUtterance=
+[#0150]
+Length=240
+Lyric=br
+NoteNum=60
+PreUtterance=
+[#0151]
+Length=240
+Lyric=i
+NoteNum=60
+PreUtterance=
+[#0152]
+Length=300
+Lyric=r u
+NoteNum=60
+PreUtterance=
+[#0153]
+Length=240
+Lyric=s a
+NoteNum=68
+PreUtterance=
+[#0154]
+Length=180
+Lyric=l Y
+NoteNum=67
+PreUtterance=
+[#0155]
+Length=240
+Lyric=d Y
+NoteNum=65
+PreUtterance=
+[#0156]
+Length=240
+Lyric=ch i
+NoteNum=64
+PreUtterance=
+[#0157]
+Length=240
+Lyric=rj e j
+NoteNum=65
+PreUtterance=
+[#0158]
+Length=240
+Lyric=br
+NoteNum=60
+PreUtterance=
+[#0159]
+Length=240
+Lyric=nj e
+NoteNum=68
+PreUtterance=
+[#0160]
+Length=240
+Lyric=s o
+NoteNum=67
+PreUtterance=
+[#0161]
+Length=240
+Lyric=shj a s
+NoteNum=65
+PreUtterance=
+[#0162]
+Length=240
+Lyric=tj a
+NoteNum=63
+PreUtterance=
+[#0163]
+Length=240
+Lyric=f sj e
+NoteNum=65
+PreUtterance=
+[#0164]
+Length=180
+Lyric=t a k
+NoteNum=63
+PreUtterance=
+[#0165]
+Length=240
+Lyric=r a
+NoteNum=66
+PreUtterance=
+[#0166]
+Length=240
+Lyric=d Y s
+NoteNum=62
+PreUtterance=
+[#0167]
+Length=240
+Lyric=n a
+NoteNum=65
+PreUtterance=
+[#0168]
+Length=240
+Lyric=f s t rj i
+NoteNum=63
+PreUtterance=
+[#0169]
+Length=180
+Lyric=ch a
+NoteNum=66
+PreUtterance=
+[#0170]
+Length=120
+Lyric=j u t
+NoteNum=63
+PreUtterance=
+[#0171]
+Length=120
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0172]
+Length=240
+Lyric=t u
+NoteNum=68
+PreUtterance=
+[#0173]
+Length=240
+Lyric=sj e
+NoteNum=67
+PreUtterance=
+[#0174]
+Length=360
+Lyric=bj a
+NoteNum=65
+PreUtterance=
+[#0175]
+Length=540
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0176]
+Length=300
+Lyric=v rj e
+NoteNum=60
+PreUtterance=
+[#0177]
+Length=480
+Lyric=mj a
+NoteNum=65
+PreUtterance=
+[#0178]
+Length=420
+Lyric=s t r a
+NoteNum=63
+PreUtterance=
+[#0179]
+Length=360
+Lyric=h a
+NoteNum=60
+PreUtterance=
+[#0180]
+Length=660
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0181]
+Length=300
+Lyric=v rj e
+NoteNum=59
+PreUtterance=
+[#0182]
+Length=420
+Lyric=mj a
+NoteNum=65
+PreUtterance=
+[#0183]
+Length=556
+Lyric=k r o
+NoteNum=63
+PreUtterance=
+[#0184]
+Length=360
+Lyric=vj i
+NoteNum=60
+PreUtterance=
+[#0185]
+Length=524
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0186]
+Length=240
+Lyric=k a g
+NoteNum=63
+PreUtterance=
+[#0187]
+Length=480
+Lyric=d a
+NoteNum=61
+PreUtterance=
+[#0188]
+Length=540
+Lyric=sj e r
+NoteNum=60
+PreUtterance=
+[#0189]
+Length=436
+Lyric=c e
+NoteNum=61
+PreUtterance=
+[#0190]
+Length=476
+Lyric=bj o
+NoteNum=63
+PreUtterance=
+[#0191]
+Length=528
+Lyric=c a
+NoteNum=65
+PreUtterance=
+[#0192]
+Length=480
+Lyric=bj e
+NoteNum=63
+PreUtterance=
+[#0193]
+Length=300
+Lyric=sh Y
+NoteNum=61
+PreUtterance=
+[#0194]
+Length=360
+Lyric=n a
+NoteNum=60
+PreUtterance=
+[#0195]
+Length=600
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0196]
+Length=240
+Lyric=dj i
+NoteNum=60
+PreUtterance=
+[#0197]
+Length=416
+Lyric=tj a
+NoteNum=64
+PreUtterance=
+[#0198]
+Length=184
+Lyric=p l a
+NoteNum=63
+PreUtterance=
+[#0199]
+Length=360
+Lyric=a
+NoteNum=60
+PreUtterance=
+[#0200]
+Length=360
+Lyric=ch e t
+NoteNum=60
+PreUtterance=
+[#0201]
+Length=420
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0202]
+Length=240
+Lyric=v z r o
+NoteNum=60
+PreUtterance=
+[#0203]
+Length=480
+Lyric=s l y j
+NoteNum=65
+PreUtterance=
+[#0204]
+Length=240
+Lyric=sh e
+NoteNum=63
+PreUtterance=
+[#0205]
+Length=240
+Lyric=e p
+NoteNum=60
+PreUtterance=
+[#0206]
+Length=360
+Lyric=ch e t
+NoteNum=60
+PreUtterance=
+[#0207]
+Length=360
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0208]
+Length=240
+Lyric=f sj e
+NoteNum=64
+PreUtterance=
+[#0209]
+Length=240
+Lyric=m a
+NoteNum=63
+PreUtterance=
+[#0210]
+Length=300
+Lyric=a
+NoteNum=60
+PreUtterance=
+[#0211]
+Length=540
+Lyric=lj i t
+NoteNum=60
+PreUtterance=
+[#0212]
+Length=360
+Lyric=v u
+NoteNum=61
+PreUtterance=
+[#0213]
+Length=60
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0214]
+Length=540
+Lyric=a s
+NoteNum=63
+PreUtterance=
+[#0215]
+Length=540
+Lyric=p a
+NoteNum=65
+PreUtterance=
+[#0216]
+Length=420
+Lyric=sj e
+NoteNum=61
+PreUtterance=
+[#0217]
+Length=180
+Lyric=nj i
+NoteNum=61
+PreUtterance=
+[#0218]
+Length=300
+Lyric=i
+NoteNum=60
+PreUtterance=
+[#0219]
+Length=540
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0220]
+Length=300
+Lyric=k s a
+NoteNum=60
+PreUtterance=
+[#0221]
+Length=240
+Lyric=zh y
+NoteNum=58
+PreUtterance=
+[#0222]
+Length=180
+Lyric=lj e
+NoteNum=60
+PreUtterance=
+[#0223]
+Length=180
+Lyric=nj i
+NoteNum=60
+PreUtterance=
+[#0224]
+Length=240
+Lyric=j u
+NoteNum=60
+PreUtterance=
+[#0225]
+Length=420
+Lyric=j e
+NoteNum=61
+PreUtterance=
+[#0226]
+Length=360
+Lyric=v o
+NoteNum=60
+PreUtterance=
+[#0227]
+Length=180
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0228]
+Length=264
+Lyric=i
+NoteNum=60
+PreUtterance=
+[#0229]
+Length=216
+Lyric=m a
+NoteNum=58
+PreUtterance=
+[#0230]
+Length=300
+Lyric=lj i t
+NoteNum=60
+PreUtterance=
+[#0231]
+Length=60
+Lyric=v y
+NoteNum=60
+PreUtterance=
+[#0232]
+Length=360
+Lyric=nj e s
+NoteNum=60
+PreUtterance=
+[#0233]
+Length=360
+Lyric=p a
+NoteNum=61
+PreUtterance=
+[#0234]
+Length=420
+Lyric=s u t
+NoteNum=60
+PreUtterance=
+[#0235]
+Length=360
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0236]
+Length=240
+Lyric=k r u
+NoteNum=60
+PreUtterance=
+[#0237]
+Length=240
+Lyric=zh i
+NoteNum=60
+PreUtterance=
+[#0238]
+Length=240
+Lyric=c a
+NoteNum=58
+PreUtterance=
+[#0239]
+Length=240
+Lyric=k r u
+NoteNum=60
+PreUtterance=
+[#0240]
+Length=300
+Lyric=zh i
+NoteNum=60
+PreUtterance=
+[#0241]
+Length=240
+Lyric=c a
+NoteNum=58
+PreUtterance=
+[#0242]
+Length=240
+Lyric=lj i s
+NoteNum=61
+PreUtterance=
+[#0243]
+Length=180
+Lyric=tj a
+NoteNum=60
+PreUtterance=
+[#0244]
+Length=60
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0245]
+Length=240
+Lyric=a
+NoteNum=63
+PreUtterance=
+[#0246]
+Length=240
+Lyric=l y
+NoteNum=63
+PreUtterance=
+[#0247]
+Length=300
+Lyric=j e
+NoteNum=60
+PreUtterance=
+[#0248]
+Length=240
+Lyric=b r y z
+NoteNum=63
+PreUtterance=
+[#0249]
+Length=240
+Lyric=gj i
+NoteNum=63
+PreUtterance=
+[#0250]
+Length=240
+Lyric=k r a
+NoteNum=61
+PreUtterance=
+[#0251]
+Length=360
+Lyric=vj i
+NoteNum=60
+PreUtterance=
+[#0252]
+Length=360
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0253]
+Length=240
+Lyric=ch e
+NoteNum=58
+PreUtterance=
+[#0254]
+Length=180
+Lyric=l a
+NoteNum=58
+PreUtterance=
+[#0255]
+Length=360
+Lyric=vj e k
+NoteNum=60
+PreUtterance=
+[#0256]
+Length=360
+Lyric=ch e
+NoteNum=60
+PreUtterance=
+[#0257]
+Length=420
+Lyric=l a
+NoteNum=61
+PreUtterance=
+[#0258]
+Length=240
+Lyric=vj e k
+NoteNum=60
+PreUtterance=
+[#0259]
+Length=300
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0260]
+Length=240
+Lyric=t y
+NoteNum=60
+PreUtterance=
+[#0261]
+Length=240
+Lyric=nj e s
+NoteNum=58
+PreUtterance=
+[#0262]
+Length=360
+Lyric=t o
+NoteNum=60
+PreUtterance=
+[#0263]
+Length=420
+Lyric=j i
+NoteNum=60
+PreUtterance=
+[#0264]
+Length=240
+Lyric=bj i
+NoteNum=61
+PreUtterance=
+[#0265]
+Length=300
+Lyric=gj i
+NoteNum=60
+PreUtterance=
+[#0266]
+Length=240
+Lyric=vj e
+NoteNum=60
+PreUtterance=
+[#0267]
+Length=240
+Lyric=tj e
+NoteNum=61
+PreUtterance=
+[#0268]
+Length=240
+Lyric=t a
+NoteNum=60
+PreUtterance=
+[#0269]
+Length=248
+Lyric=n a
+NoteNum=61
+PreUtterance=
+[#0270]
+Length=232
+Lyric=sh e v
+NoteNum=60
+PreUtterance=
+[#0271]
+Length=240
+Lyric=rj e
+NoteNum=61
+PreUtterance=
+[#0272]
+Length=240
+Lyric=mj a 
+NoteNum=60
+PreUtterance=
+[#0273]
+Length=300
+Lyric=sh t o
+NoteNum=62
+PreUtterance=
+[#0274]
+Length=120
+Lyric=b y
+NoteNum=62
+PreUtterance=
+[#0275]
+Length=120
+Lyric=cl
+NoteNum=60
+PreUtterance=
+[#0276]
+Length=240
+Lyric=p a
+NoteNum=63
+PreUtterance=
+[#0277]
+Length=240
+Lyric=k a
+NoteNum=60
+PreUtterance=
+[#0278]
+Length=300
+Lyric=z a tj
+NoteNum=63
+PreUtterance=
+[#0279]
+Length=240
+Lyric=k t o
+NoteNum=60
+PreUtterance=
+[#0280]
+Length=240
+Lyric=s a
+NoteNum=63
+PreUtterance=
+[#0281]
+Length=240
+Lyric=m y g
+NoteNum=60
+PreUtterance=
+[#0282]
+Length=240
+Lyric=l a v
+NoteNum=64
+PreUtterance=
+[#0283]
+Length=300
+Lyric=n y j
+NoteNum=65
+PreUtterance=
+[#0284]
+Length=600
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0285]
+Length=360
+Lyric=h a
+NoteNum=65
+PreUtterance=
+[#0286]
+Length=180
+Lyric=cl
+NoteNum=60
+PreUtterance=
+[#0287]
+Length=360
+Lyric=h e j
+NoteNum=65
+PreUtterance=
+[#0288]
+Length=660
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0289]
+Length=232
+Lyric=ch e
+NoteNum=68
+PreUtterance=
+[#0290]
+Length=188
+Lyric=l a
+NoteNum=67
+PreUtterance=
+[#0291]
+Length=300
+Lyric=vj e k
+NoteNum=65
+PreUtterance=
+[#0292]
+Length=256
+Lyric=bj i
+NoteNum=62
+PreUtterance=
+[#0293]
+Length=204
+Lyric=gj i
+NoteNum=64
+PreUtterance=
+[#0294]
+Length=348
+Lyric=i
+NoteNum=60
+PreUtterance=
+[#0295]
+Length=360
+Lyric=zh e
+NoteNum=60
+PreUtterance=
+[#0296]
+Length=572
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0297]
+Length=300
+Lyric=n o
+NoteNum=68
+PreUtterance=
+[#0298]
+Length=180
+Lyric=gj i
+NoteNum=67
+PreUtterance=
+[#0299]
+Length=256
+Lyric=u
+NoteNum=65
+PreUtterance=
+[#0300]
+Length=224
+Lyric=n a
+NoteNum=62
+PreUtterance=
+[#0301]
+Length=240
+Lyric=sj i
+NoteNum=64
+PreUtterance=
+[#0302]
+Length=300
+Lyric=i
+NoteNum=60
+PreUtterance=
+[#0303]
+Length=360
+Lyric=zh e
+NoteNum=61
+PreUtterance=
+[#0304]
+Length=464
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0305]
+Length=240
+Lyric=p a
+NoteNum=68
+PreUtterance=
+[#0306]
+Length=248
+Lyric=k a
+NoteNum=67
+PreUtterance=
+[#0307]
+Length=256
+Lyric=m y
+NoteNum=65
+PreUtterance=
+[#0308]
+Length=292
+Lyric=nj e
+NoteNum=62
+PreUtterance=
+[#0309]
+Length=240
+Lyric=s j e
+NoteNum=64
+PreUtterance=
+[#0310]
+Length=240
+Lyric=e
+NoteNum=60
+PreUtterance=
+[#0311]
+Length=240
+Lyric=lj i
+NoteNum=60
+PreUtterance=
+[#0312]
+Length=240
+Lyric=tj i
+NoteNum=60
+PreUtterance=
+[#0313]
+Length=136
+Lyric=bj a
+NoteNum=59
+PreUtterance=
+[#0314]
+Length=480
+Lyric=a
+NoteNum=60
+PreUtterance=
+[#0315]
+Length=524
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0316]
+Length=240
+Lyric=k t o
+NoteNum=65
+PreUtterance=
+[#0317]
+Length=180
+Lyric=o
+NoteNum=60
+PreUtterance=
+[#0318]
+Length=120
+Lyric=cl
+NoteNum=60
+PreUtterance=
+[#0319]
+Length=512
+Lyric=t a
+NoteNum=60
+PreUtterance=
+[#0320]
+Length=284
+Lyric=v y
+NoteNum=68
+PreUtterance=
+[#0321]
+Length=252
+Lyric=pj e
+NoteNum=67
+PreUtterance=
+[#0322]
+Length=264
+Lyric=t v a
+NoteNum=65
+PreUtterance=
+[#0323]
+Length=196
+Lyric=j u
+NoteNum=64
+PreUtterance=
+[#0324]
+Length=300
+Lyric=k r o f
+NoteNum=65
+PreUtterance=
+[#0325]
+Length=232
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0326]
+Length=300
+Lyric=k t o
+NoteNum=60
+PreUtterance=
+[#0327]
+Length=180
+Lyric=t a
+NoteNum=62
+PreUtterance=
+[#0328]
+Length=300
+Lyric=b u
+NoteNum=68
+PreUtterance=
+[#0329]
+Length=240
+Lyric=d e t
+NoteNum=67
+PreUtterance=
+[#0330]
+Length=248
+Lyric=j e s tj
+NoteNum=65
+PreUtterance=
+[#0331]
+Length=200
+Lyric=i
+NoteNum=64
+PreUtterance=
+[#0332]
+Length=240
+Lyric=p l o tj
+NoteNum=65
+PreUtterance=
+[#0333]
+Length=332
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0334]
+Length=180
+Lyric=nj i
+NoteNum=68
+PreUtterance=
+[#0335]
+Length=300
+Lyric=k u
+NoteNum=67
+PreUtterance=
+[#0336]
+Length=240
+Lyric=s o ch
+NoteNum=65
+PreUtterance=
+[#0337]
+Length=240
+Lyric=k a
+NoteNum=63
+PreUtterance=
+[#0338]
+Length=180
+Lyric=nj e
+NoteNum=65
+PreUtterance=
+[#0339]
+Length=60
+Lyric=cl
+NoteNum=60
+PreUtterance=
+[#0340]
+Length=300
+Lyric=a s
+NoteNum=64
+PreUtterance=
+[#0341]
+Length=240
+Lyric=t a
+NoteNum=65
+PreUtterance=
+[#0342]
+Length=180
+Lyric=vj i m
+NoteNum=63
+PreUtterance=
+[#0343]
+Length=240
+Lyric=v o l
+NoteNum=68
+PreUtterance=
+[#0344]
+Length=240
+Lyric=k a m
+NoteNum=68
+PreUtterance=
+[#0345]
+Length=240
+Lyric=v o
+NoteNum=68
+PreUtterance=
+[#0346]
+Length=240
+Lyric=j u
+NoteNum=67
+PreUtterance=
+[#0347]
+Length=240
+Lyric=shj i m
+NoteNum=68
+PreUtterance=
+[#0348]
+Length=240
+Lyric=v lj i
+NoteNum=67
+PreUtterance=
+[#0349]
+Length=480
+Lyric=s a h
+NoteNum=65
+PreUtterance=
+[#0350]
+Length=304
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0351]
+Length=596
+Lyric=h a
+NoteNum=65
+PreUtterance=
+[#0352]
+Length=15
+Lyric=cl
+NoteNum=60
+PreUtterance=
+[#0353]
+Length=480
+Lyric=a
+NoteNum=72
+PreUtterance=
+[#0354]
+Length=780
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0355]
+Length=180
+Lyric=ch e
+NoteNum=68
+PreUtterance=
+[#0356]
+Length=240
+Lyric=l a
+NoteNum=67
+PreUtterance=
+[#0357]
+Length=240
+Lyric=vj e k
+NoteNum=68
+PreUtterance=
+[#0358]
+Length=300
+Lyric=bj e
+NoteNum=67
+PreUtterance=
+[#0359]
+Length=436
+Lyric=gj i
+NoteNum=68
+PreUtterance=
+[#0360]
+Length=360
+Lyric=zh e
+NoteNum=72
+PreUtterance=
+[#0361]
+Length=599
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0362]
+Length=120
+Lyric=n o
+NoteNum=68
+PreUtterance=
+[#0363]
+Length=180
+Lyric=o
+NoteNum=66
+PreUtterance=
+[#0364]
+Length=180
+Lyric=gj i
+NoteNum=67
+PreUtterance=
+[#0365]
+Length=240
+Lyric=u
+NoteNum=68
+PreUtterance=
+[#0366]
+Length=300
+Lyric=n a
+NoteNum=67
+PreUtterance=
+[#0367]
+Length=496
+Lyric=sj i
+NoteNum=68
+PreUtterance=
+[#0368]
+Length=360
+Lyric=zh e
+NoteNum=72
+PreUtterance=
+[#0369]
+Length=344
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0370]
+Length=240
+Lyric=p a
+NoteNum=68
+PreUtterance=
+[#0371]
+Length=300
+Lyric=k a
+NoteNum=67
+PreUtterance=
+[#0372]
+Length=240
+Lyric=m y
+NoteNum=68
+PreUtterance=
+[#0373]
+Length=240
+Lyric=nj e
+NoteNum=71
+PreUtterance=
+[#0374]
+Length=480
+Lyric=s j e
+NoteNum=72
+PreUtterance=
+[#0375]
+Length=240
+Lyric=lj i
+NoteNum=68
+PreUtterance=
+[#0376]
+Length=300
+Lyric=tj e
+NoteNum=70
+PreUtterance=
+[#0377]
+Length=360
+Lyric=bj a
+NoteNum=68
+PreUtterance=
+[#0378]
+Length=420
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0379]
+Length=300
+Lyric=k t o
+NoteNum=68
+PreUtterance=
+[#0380]
+Length=180
+Lyric=cl
+NoteNum=60
+PreUtterance=
+[#0381]
+Length=480
+Lyric=t a
+NoteNum=72
+PreUtterance=
+[#0382]
+Length=240
+Lyric=v y p
+NoteNum=70
+PreUtterance=
+[#0383]
+Length=240
+Lyric=j e
+NoteNum=68
+PreUtterance=
+[#0384]
+Length=240
+Lyric=t v a
+NoteNum=67
+PreUtterance=
+[#0385]
+Length=248
+Lyric=j u
+NoteNum=70
+PreUtterance=
+[#0386]
+Length=360
+Lyric=k r o f
+NoteNum=68
+PreUtterance=
+[#0387]
+Length=532
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0388]
+Length=240
+Lyric=k t o
+NoteNum=71
+PreUtterance=
+[#0389]
+Length=300
+Lyric=t a
+NoteNum=67
+PreUtterance=
+[#0390]
+Length=240
+Lyric=b u
+NoteNum=70
+PreUtterance=
+[#0391]
+Length=240
+Lyric=dj e t
+NoteNum=68
+PreUtterance=
+[#0392]
+Length=248
+Lyric=j e s tj
+NoteNum=67
+PreUtterance=
+[#0393]
+Length=232
+Lyric=i
+NoteNum=70
+PreUtterance=
+[#0394]
+Length=420
+Lyric=p l o tj
+NoteNum=68
+PreUtterance=
+[#0395]
+Length=480
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0396]
+Length=240
+Lyric=nj i
+NoteNum=68
+PreUtterance=
+[#0397]
+Length=180
+Lyric=k u
+NoteNum=67
+PreUtterance=
+[#0398]
+Length=300
+Lyric=s o ch
+NoteNum=68
+PreUtterance=
+[#0399]
+Length=180
+Lyric=k a
+NoteNum=70
+PreUtterance=
+[#0400]
+Length=188
+Lyric=nj e
+NoteNum=68
+PreUtterance=
+[#0401]
+Length=308
+Lyric=a s
+NoteNum=68
+PreUtterance=
+[#0402]
+Length=224
+Lyric=t a
+NoteNum=68
+PreUtterance=
+[#0403]
+Length=240
+Lyric=vj i m
+NoteNum=70
+PreUtterance=
+[#0404]
+Length=240
+Lyric=v o l
+NoteNum=68
+PreUtterance=
+[#0405]
+Length=240
+Lyric=k a m
+NoteNum=67
+PreUtterance=
+[#0406]
+Length=180
+Lyric=v o
+NoteNum=68
+PreUtterance=
+[#0407]
+Length=256
+Lyric=j u
+NoteNum=67
+PreUtterance=
+[#0408]
+Length=292
+Lyric=shj i m
+NoteNum=68
+PreUtterance=
+[#0409]
+Length=232
+Lyric=v lj e
+NoteNum=70
+PreUtterance=
+[#0410]
+Length=420
+Lyric=s a h
+NoteNum=68
+PreUtterance=
+[#0411]
+Length=644
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0412]
+Length=360
+Lyric=s k a
+NoteNum=67
+PreUtterance=
+[#0413]
+Length=600
+Lyric=rj e j
+NoteNum=68
+PreUtterance=
+[#0414]
+Length=676
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0415]
+Length=420
+Lyric=bj e
+NoteNum=67
+PreUtterance=
+[#0416]
+Length=600
+Lyric=gj i
+NoteNum=68
+PreUtterance=
+[#0417]
+Length=480
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0418]
+Length=360
+Lyric=bj e
+NoteNum=68
+PreUtterance=
+[#0419]
+Length=360
+Lyric=gj i
+NoteNum=68
+PreUtterance=
+[#0420]
+Length=180
+Lyric=i
+NoteNum=67
+PreUtterance=
+[#0421]
+Length=240
+Lyric=i
+NoteNum=68
+PreUtterance=
+[#0422]
+Length=696
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0423]
+Length=420
+Lyric=s k a
+NoteNum=67
+PreUtterance=
+[#0424]
+Length=240
+Lyric=rj e
+NoteNum=67
+PreUtterance=
+[#0425]
+Length=480
+Lyric=e j
+NoteNum=68
+PreUtterance=
+[#0426]
+Length=788
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0427]
+Length=420
+Lyric=v lj e
+NoteNum=67
+PreUtterance=
+[#0428]
+Length=316
+Lyric=s a
+NoteNum=67
+PreUtterance=
+[#0429]
+Length=420
+Lyric=a h
+NoteNum=68
+PreUtterance=
+[#0430]
+Length=660
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#0431]
+Length=480
+Lyric=v o l
+NoteNum=68
+PreUtterance=
+[#0432]
+Length=480
+Lyric=k a m
+NoteNum=67
+PreUtterance=
+[#0433]
+Length=420
+Lyric=v o
+NoteNum=70
+PreUtterance=
+[#0434]
+Length=420
+Lyric=j u
+NoteNum=68
+PreUtterance=
+[#0435]
+Length=480
+Lyric=shj i m
+NoteNum=67
+PreUtterance=
+[#0436]
+Length=420
+Lyric=v lj e
+NoteNum=65
+PreUtterance=
+[#0437]
+Length=540
+Lyric=s a h
+NoteNum=68
+PreUtterance=
+[#0438]
+Length=240
+Lyric=R
+NoteNum=60
+PreUtterance=
+[#TRACKEND]
