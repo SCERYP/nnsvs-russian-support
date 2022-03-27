@@ -7,7 +7,7 @@ The phonemes is based on Rus CVC( by Hiden.BZR )
 Hed file based on polish SzopaTatyJarka ( https://github.com/SzopaTatyJarka/nnsvs-polish-support )  
 For good quality data i recommend 1h - 3h data (without silence)
 # nnsvs russian in_dim settings 
-change it in /train/conf/train/*/model/*.yaml
+change it in /train/conf/train/*/model/*.yaml  
 acoustic_conv.yaml: 268   
 acoustic_mdn.yaml: 268
 
