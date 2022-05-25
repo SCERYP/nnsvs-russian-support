@@ -3,6 +3,7 @@ Files for Russian NNSVS dataset creation
 
 Hed and table files required for Russian NNSVS training    
 Atlas for LyricInputHelper for easy writing in utau  
+Table for OpenUtau for easy using
 The phonemes is based on Rus CVC( by Hiden.BZR )   
 Hed file based on polish SzopaTatyJarka ( https://github.com/SzopaTatyJarka/nnsvs-polish-support )  
 For good quality data i recommend 1h - 3h data (without silence)
