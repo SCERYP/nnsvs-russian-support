@@ -1,7 +1,9 @@
-change it in /train/conf/train/*/model/*.yaml
-acoustic_conv.yaml: 268
-acoustic_mdn.yaml: 268
-duration_lstm.yaml: 264
-duration_mdn.yaml: 264
-timelag_ffn.yaml: 264
-timelag_mdn.yaml: 264
+change it in /train/conf/train//model/.yaml
+acoustic_conv.yaml: 262
+acoustic_mdn.yaml: 229
+
+duration_lstm.yaml: 258
+duration_mdn.yaml: 225
+
+timelag_ffn.yaml: 258
+timelag_mdn.yaml: 225
