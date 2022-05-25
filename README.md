@@ -6,6 +6,12 @@ Atlas for LyricInputHelper for easy writing in utau
 The phonemes is based on Rus CVC( by Hiden.BZR )   
 Hed file based on polish SzopaTatyJarka ( https://github.com/SzopaTatyJarka/nnsvs-polish-support )  
 For good quality data i recommend 1h - 3h data (without silence)
+# russian nnsvs 50min test
+BETA Ver. test of Lolita AI
+
+https://user-images.githubusercontent.com/75198282/170233135-25eef1cc-ec72-4d01-b0d1-b139c0f97dc9.mp4
+
+UST by Heiden.BZR
 # nnsvs russian in_dim settings 
 change it in /train/conf/train//model/.yaml
 
@@ -17,3 +23,35 @@ duration_mdn.yaml: 225
 
 timelag_ffn.yaml: 258
 timelag_mdn.yaml: 225
+# nnsvs russian flags
+
+| Flag | Purpose               |
+|------|-----------------------|
+| F    | falsetto              |
+| HV   | head voice            |
+| SF   | soft                  |
+| ST   | strong                |
+| P    | power                 |
+| D    | dark                  |
+| W    | whisper               |
+| S    | scream                |
+| G    | growl                 |
+| C    | cute                  |
+| SW   | sweet                 |
+| V    | vivid                 |
+| SO   | solid                 |
+- Emotion flags
+ 
+| Flag | Purpose               |
+|------|-----------------------|
+| HPY  | happy                 |
+| SAD  | sad                   |
+| MAD  | mad                   |
+| ANG  | angry                 |
+- Custom flags
+ 
+| Flag | Purpose               |
+|------|-----------------------|
+| 1    | additional_1          |
+| 2    | additional_2          |
+| 3    | additional_3          |
