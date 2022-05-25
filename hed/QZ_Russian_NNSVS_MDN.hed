@@ -1,36 +1,51 @@
+#HED for NNSVS Russian
+#in_dim: 225(duration/timelag), 229(acoustic)
+#in_rest_idx: 1
+#in_lfx0_idx: 180
+
+#tone flags
+
+QS "falsetto"                                           {*^F_*}
+QS "head voice"                                         {*^HV_*}
+QS "soft"                                               {*^SF_*}
+QS "strong"                                             {*^ST_*}
+QS "power"                                              {*^P_*}
+QS "dark"                                               {*^D_*}
+QS "whisper"                                            {*^W_*}
+QS "scream"                                             {*^S_*}
+QS "growl"                                              {*^G_*}
+QS "cute"                                               {*^C_*}
+QS "sweet"                                              {*^S_*}
+QS "vivid"                                              {*^V_*}
+QS "solid"                                              {*^SO_*}
+
+#emotion flags
+
+QS "happy"                                              {*^HPY_*}
+QS "sad"                                                {*^SAD_*}
+QS "mad"                                                {*^MAD_*}
+QS "angry"                                              {*^ANG_*}
+
+#custom flags
+
+QS "additional_1"                                       {*^1_*}
+QS "additional_2"                                       {*^2_*}
+QS "additional_3"                                       {*^3_*}
+
+#Phonetic definitions
+
 QS "L-Silences"                                         {*^pau-*,*^sil-*,*^br-*,*^cl-*}
 QS "C-Silences"                                         {*-pau+*,*-sil+*,*-br+*,*-cl+*}
 QS "R-Silences"                                         {*+pau=*,*+sil=*,*+br=*,*+cl=*}
 
 QS "L-Vowel"                                            {*^a-*,*^i-*,*^u-*,*^e-*,*^o-*,*^y-*,*^E-*,*^A-*,*^Y-*}
 QS "L-Consonant"                                        {*^p-*,*^b-*,*^t-*,*^d-*,*^k-*,*^g-*,*^f-*,*^v-*,*^s-*,*^z-*,*^h-*,*^sh-*,*^zh-*,*^ch-*,*^c-*,*^m-*,*^n-*,*^l-*,*^r-*,*^j-*,*^pj-*,*^bj-*,*^tj-*,*^dj-*,*^kj-*,*^gj-*,*^fj-*,*^vj-*,*^sj-*,*^zj-*,*^hj-*,*^shj-*,*^mj-*,*^nj-*,*^lj-*,*^rj-*,*^Edge-*}
-QS "L-Plosives"                                         {*^p-*,*^b-*,*^t-*,*^d-*,*^k-*,*^g-*,*^pj-*,*^bj-*,*^tj-*,*^dj-*,*^kj-*,*^gj-*}
-QS "L-Voiced_Consonant"                                 {*^b-*,*^d-*,*^g-*,*^d-*,*^v-*,*^z-*,*^zh-*,*^m-*,*^n-*,*^r-*,*^l-*,*^j-*,*^pj-*,*^bj-*,*^tj-*,*^dj-*,*^kj-*,*^gj-*,*^fj-*,*^vj-*,*^sj-*,*^zj-*,*^hj-*,*^mj-*,*^nj-*,*^lj-*,*^rj-*}
-QS "L-Unvoiced_Consonant"                               {*^p-*,*^t-*,*^k-*,*^ch-*,*^c-*,*^f-*,*^h-*,*^s-*,*^sh-*,*^shj-*,*^dj-*,*^kj-*}
-QS "L-Fricatives"                                       {*^f-*,*^v-*,*^s-*,*^z-*,*^h-*,*^sh-*,*^zh-*,*^fj-*,*^vj-*,*^sj-*,*^zj-*,*^hj-*,*^shj-*}
-QS "L-Affricates"                                       {*^c-*,*^ch-*}
-QS "L-Nasal"                                            {*^m-*,*^n-*,*^mj-*,*^nj-*}
-QS "L-Approximant"                                      {*^l-*,*^j-*,*^lj-*}
 
 QS "C-Vowel"                                            {*-a+*,*-i+*,*-u+*,*-e+*,*-o+*,*-y+*,*-E+*,*-A+*,*-Y+*}
 QS "C-Consonant"                                        {*-p+*,*-b+*,*-t+*,*-d+*,*-k+*,*-g+*,*-f+*,*-v+*,*-s+*,*-z+*,*-h+*,*-sh+*,*-zh+*,*-ch+*,*-c+*,*-m+*,*-n+*,*-l+*,*-r+*,*-j+*,*-pj+*,*-bj+*,*-tj+*,*-dj+*,*-kj+*,*-gj+*,*-fj+*,*-vj+*,*-sj+*,*-zj+*,*-hj+*,*-shj+*,*-mj+*,*-nj+*,*-lj+*,*-rj+*,*-Edge+*}
-QS "C-Voiced_Consonant"                                 {*-b+*,*-d+*,*-g+*,*-d+*,*-v+*,*-z+*,*-zh+*,*-m+*,*-n+*,*-r+*,*-l+*,*-j+*,*-pj+*,*-bj+*,*-tj+*,*-dj+*,*-kj+*,*-gj+*,*-fj+*,*-vj+*,*-sj+*,*-zj+*,*-hj+*,*-mj+*,*-nj+*,*-lj+*,*-rj+*}
-QS "C-Unvoiced_Consonant"                               {*-p+*,*-t+*,*-k+*,*-ch+*,*-c+*,*-f+*,*-h+*,*-s+*,*-sh+*,*-shj+*,*-dj+*,*-kj+*}
-QS "C-Plosives"                                         {*-p+*,*-b+*,*-t+*,*-d+*,*-k+*,*-g+*,*-pj+*,*-bj+*,*-tj+*,*-dj+*,*-kj+*,*-gj+*}
-QS "C-Fricatives"                                       {*-f+*,*-v+*,*-s+*,*-z+*,*-h+*,*-sh+*,*-zh+*,*-fj+*,*-vj+*,*-sj+*,*-zj+*,*-hj+*,*-shj+*}
-QS "C-Affricates"                                       {*-c+*,*-ch+*}
-QS "C-Nasal"                                            {*-m+*,*-n+*,*-mj+*,*-nj+*}
-QS "C-Approximant"                                      {*-l+*,*-j+*,*-lj+*}
 
 QS "R-Vowel"                                            {*+a=*,*+i=*,*+u=*,*+e=*,*+o=*,*+y=*,*+E=*,*+A=*,*+Y=*}
 QS "R-Consonant"                                        {*+p=*,*+b=*,*+t=*,*+d=*,*+k=*,*+g=*,*+f=*,*+v=*,*+s=*,*+z=*,*+h=*,*+sh=*,*+zh=*,*+ch=*,*+c=*,*+m=*,*+n=*,*+l=*,*+r=*,*+j=*,*+pj=*,*+bj=*,*+tj=*,*+dj=*,*+kj=*,*+gj=*,*+fj=*,*+vj=*,*+sj=*,*+zj=*,*+hj=*,*+shj=*,*+mj=*,*+nj=*,*+lj=*,*+rj=*,*+Edge=*}
-QS "R-Voiced_Consonant"                                 {*+b=*,*+d=*,*+g=*,*+d=*,*+v=*,*+z=*,*+zh=*,*+m=*,*+n=*,*+r=*,*+l=*,*+j=*,*+pj=*,*+bj=*,*+tj=*,*+dj=*,*+kj=*,*+gj=*,*+fj=*,*+vj=*,*+sj=*,*+zj=*,*+hj=*,*+mj=*,*+nj=*,*+lj=*,*+rj=*}
-QS "R-Unvoiced_Consonant"                               {*+p=*,*+t=*,*+k=*,*+ch=*,*+c=*,*+f=*,*+h=*,*+s=*,*+sh=*,*+shj=*,*+dj=*,*+kj=*}
-QS "R-Plosives"                                         {*+p=*,*+b=*,*+t=*,*+d=*,*+k=*,*+g=*,*+pj=*,*+bj=*,*+tj=*,*+dj=*,*+kj=*,*+gj=*}
-QS "R-Fricatives"                                       {*+f=*,*+v=*,*+s=*,*+z=*,*+h=*,*+sh=*,*+zh=*,*+fj=*,*+vj=*,*+sj=*,*+zj=*,*+hj=*,*+shj=*}
-QS "R-Affricates"                                       {*+c=*,*+ch=*}
-QS "R-Nasal"                                            {*+m=*,*+n=*,*+mj=*,*+nj=*}
-QS "R-Approximant"                                      {*+l=*,*+j=*,*+lj=*}
 
 QS "L-a"                                    {*^a-*}
 QS "L-i"                                    {*^i-*}
@@ -185,105 +200,64 @@ QS "R-br"                                   {*+br=*}
 QS "R-cl"                                   {*+cl=*}
 QS "R-Edge"                                 {*+Edge=*}
 
-CQS "d1"                                    {/D:(\NOTE)!}
-CQS "e1"                                    {/E:(\NOTE)]}
-CQS "f1"                                    {/F:(\NOTE)#}
+#The following was copied from the NNSVS hed
 
-CQS "p12"                                   {-(\d+)!}
-CQS "p13"                                   {!(\d+)[}
-CQS "p14"                                   {[(\d+)$}
-CQS "p15"                                   {$(\d+)]}
-CQS "a1"                                    {/A:(\d+)-}
-CQS "a2"                                    {-(\d+)-}
-CQS "a3"                                    {-(\d+)@}
+CQS "d1" {/D:(\NOTE)!}
+CQS "e1" {/E:(\NOTE)]}
+CQS "f1" {/F:(\NOTE)#}
 
-CQS "b1"                                    {/B:(\d+)_}
-CQS "b2"                                    {_(\d+)_}
-CQS "b3"                                    {_(\d+)@}
+CQS "d2" {!(\d+)#}
+CQS "e2" {](\d+)^}
+CQS "f2" {#(\d+)#}
 
-CQS "c1"                                    {/C:(\d+)+}
-CQS "c2"                                    {+(\d+)+}
-CQS "c3"                                    {+(\d+)@}
+CQS "p12" {-(\d+)!}
+CQS "p13" {!(\d+)[}
 
-CQS "d2"                                    {!(\d+)#}
-CQS "d3"                                    {#(\d+)$}
+CQS "p14" {[(\d+)$}
+CQS "p15" {$(\d+)]}
 
-QS  "L-Note_Beat=x/x"                       {*$x/x%*}
-QS  "L-Note_Beat=1/4"                       {*$1/4%*}
-QS  "L-Note_Beat=2/4"                       {*$2/4%*}
-QS  "L-Note_Beat=3/4"                       {*$3/4%*}
-QS  "L-Note_Beat=4/4"                       {*$4/4%*}
-QS  "L-Note_Beat=5/4"                       {*$5/4%*}
-QS  "L-Note_Beat=4/8"                       {*$4/8%*}
-QS  "L-Note_Beat=6/8"                       {*$6/8%*}
+CQS "a1" {/A:(\d+)-}
+CQS "b1" {/B:(\d+)_}
+CQS "c1" {/C:(\d+)+}
 
-CQS "d6"                                    {|(\d+)&}
-CQS "d7"                                    {&(\d+);}
-CQS "d8"                                    {;(\d+)-}
+CQS "a2" {-(\d+)-}
+CQS "a3" {-(\d+)@}
+CQS "b2" {_(\d+)_}
+CQS "b3" {_(\d+)@}
+CQS "c2" {+(\d+)+}
+CQS "c3" {+(\d+)@}
 
-CQS "e2"                                    {](\d+)^}
-CQS "e3"                                    {^(\d+)=}
+CQS "e6" {!(\d+)@}
+CQS "e7" {@(\d+)#}
+CQS "e8" {#(\d+)+}
 
-QS  "C-Note_Beat=x/x"                       {*=x/x~*}
-QS  "C-Note_Beat=1/4"                       {*=1/4~*}
-QS  "C-Note_Beat=2/4"                       {*=2/4~*}
-QS  "C-Note_Beat=3/4"                       {*=3/4~*}
-QS  "C-Note_Beat=4/4"                       {*=4/4~*}
-QS  "C-Note_Beat=5/4"                       {*=5/4~*}
-QS  "C-Note_Beat=4/8"                       {*=4/8~*}
-QS  "C-Note_Beat=6/8"                       {*=6/8~*}
+CQS "d6" {|(\d+)&}
+CQS "d7" {&(\d+);}
+CQS "d8" {;(\d+)-}
 
-CQS "e6"                                    {!(\d+)@}
-CQS "e7"                                    {@(\d+)#}
-CQS "e8"                                    {#(\d+)+}
+CQS "f6" {$(\d+)+}
+CQS "f7" {+(\d+)%}
+CQS "f8" {%(\d+);}
 
-CQS "e26"                                   {|(\d+)]}
-CQS "e27"                                   {](\d+)-}
+#The following was copied from the ETK hed
 
-CQS "e29"                                   {^(\d+)+}
-CQS "e30"                                   {+(\d+)~}
-CQS "e31"                                   {~(\d+)=}
-CQS "e32"                                   {=(\d+)@}
-CQS "e33"                                   {@(\d+)$}
-CQS "e34"                                   {$(\d+)!}
-CQS "e35"                                   {!(\d+)%}
-CQS "e36"                                   {%(\d+)#}
-CQS "e37"                                   {#(\d+)|}
-CQS "e38"                                   {|(\d+)|}
-CQS "e39"                                   {|(\d+)-}
-CQS "e40"                                   {-(\d+)&}
-CQS "e41"                                   {&(\d+)&}
-CQS "e42"                                   {&(\d+)+}
-CQS "e43"                                   {+(\d+)[}
-CQS "e44"                                   {[(\d+);}
-CQS "e45"                                   {;(\d+)]}
-CQS "e46"                                   {](\d+);}
-CQS "e47"                                   {;(\d+)~}
-CQS "e48"                                   {~(\d+)~}
-CQS "e49"                                   {~(\d+)^}
-CQS "e50"                                   {^(\d+)^}
-CQS "e51"                                   {^(\d+)@}
-CQS "e52"                                   {@(\d+)[}
-CQS "e53"                                   {[(\d+)#}
-CQS "e54"                                   {#(\d+)=}
-CQS "e55"                                   {=(\d+)!}
-CQS "e56"                                   {!(\d+)~}
-CQS "e57"                                   {~([pm]\d+)+}
-CQS "e58"                                   {+([pm]\d+)!}
+CQS "e10_position_by_note_in_measure"      {](\d+)$}
+CQS "e11_position_by_note_in_measure"      {$(\d+)|}
+CQS "e12_position_by_10ms_in_measure"      {|(\d+)[}
+CQS "e13_position_by_10ms_in_measure"      {[(\d+)&}
+CQS "e14_position_by_96th_note_in_measure" {&(\d+)]}
+CQS "e15_position_by_96th_note_in_measure" {](\d+)=}
+CQS "e16_position_by_percent_in_measure"   {=(\d+)^}
+CQS "e17_position_by_percent_in_measure"   {^(\d+)~}
 
-CQS "f2"                                    {#(\d+)#}
-CQS "f3"                                    {#(\d+)-}
+CQS "e18_position_by_note"      {~(\d+)#}
+CQS "e19_position_by_note"      {#(\d+)_}
+CQS "e20_position_by_10ms"      {_(\d+);}
+CQS "e21_position_by_10ms"      {;(\d+)$}
+CQS "e22_position_by_96th_note" {$(\d+)&}
+CQS "e23_position_by_96th_note" {&(\d+)%}
+CQS "e24_position_by_percent"   {%(\d+)[}
+CQS "e25_position_by_percent"   {[(\d+)|}
 
-QS  "R-Note_Beat=x/x"                       {*-x/x$*}
-QS  "R-Note_Beat=1/4"                       {*-1/4$*}
-QS  "R-Note_Beat=2/4"                       {*-2/4$*}
-QS  "R-Note_Beat=3/4"                       {*-3/4$*}
-QS  "R-Note_Beat=4/4"                       {*-4/4$*}
-QS  "R-Note_Beat=5/4"                       {*-5/4$*}
-QS  "R-Note_Beat=4/8"                       {*-4/8$*}
-QS  "R-Note_Beat=6/8"                       {*-6/8$*}
-
-CQS "f6"                                    {$(\d+)+}
-CQS "f7"                                    {+(\d+)%}
-CQS "f8"                                    {%(\d+);}
-
+CQS "e57" {~([pm]\d+)+}
+CQS "e58" {+([pm]\d+)!}
