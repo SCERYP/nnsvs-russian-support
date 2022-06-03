@@ -31,7 +31,6 @@ timelag_mdn.yaml: 225
 | F    | falsetto              |
 | HV   | head voice            |
 | SF   | soft                  |
-| ST   | strong                |
 | P    | power                 |
 | D    | dark                  |
 | W    | whisper               |
@@ -39,7 +38,6 @@ timelag_mdn.yaml: 225
 | G    | growl                 |
 | C    | cute                  |
 | SW   | sweet                 |
-| V    | vivid                 |
 | SO   | solid                 |
 - Emotion flags
  
