@@ -24,6 +24,24 @@ duration_mdn.yaml: 225
 
 timelag_ffn.yaml: 258
 timelag_mdn.yaml: 225
+
+
+|   Standard   | In_dim settings |
+|--------------|-----------------|
+| acoustic_conv.yaml | 284       |
+| duration_lstm.yaml | 280       |
+| timelag_ffn.yaml   | 280       |
+| in_rest_idx        | 19        |
+| in_lfx0_idx        | 235       |
+
+|   MDN        | In_dim settings |
+|--------------|-----------------|
+| acoustic_mdn.yaml | 234        |
+| duration_mdn.yaml | 230        |
+| timelag_mdn.yaml  | 230        |
+| in_rest_idx       | 19         |
+| in_lfx0_idx       | 185        |
+
 # nnsvs russian flags
 
 | Flag | Purpose               |
