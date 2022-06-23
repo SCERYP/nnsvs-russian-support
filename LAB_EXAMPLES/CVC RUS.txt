@@ -7,8 +7,8 @@ e e
 a a
 o o
 u u
-E x like in rus vccv
-A @ like in old rus vccv
+E x like in rus vccv (not really needed)
+A ax like in rus vccv
 Y ex like in rus vccv
 p p
 b b
