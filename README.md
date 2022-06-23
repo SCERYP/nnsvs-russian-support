@@ -16,16 +16,6 @@ UST by Heiden.BZR
 # nnsvs russian in_dim settings 
 change it in /train/conf/train//model/.yaml
 
-acoustic_conv.yaml: 262
-acoustic_mdn.yaml: 229
-
-duration_lstm.yaml: 258
-duration_mdn.yaml: 225
-
-timelag_ffn.yaml: 258
-timelag_mdn.yaml: 225
-
-
 |   Standard   | In_dim settings |
 |--------------|-----------------|
 | acoustic_conv.yaml | 284       |
