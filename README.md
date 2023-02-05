@@ -1,8 +1,10 @@
 # nnsvs russian support
-vowel_list:
-a, i, u, e, o, y, A, E, Y
-Files for Russian NNSVS dataset creation
 
+vowel_list:
+
+a, i, u, e, o, y, A, E, Y
+
+Files for Russian NNSVS dataset creation                               
 Hed and table files required for Russian NNSVS training    
 Atlas for LyricInputHelper for easy writing in utau  
 Table for OpenUtau for easy using
